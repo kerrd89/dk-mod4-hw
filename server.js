@@ -165,3 +165,4 @@ router.add('GET', /^\/talks$/, (request, response) => {
         waitForChanges(since, response);
     }
   }
+});

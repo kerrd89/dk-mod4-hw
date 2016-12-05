@@ -1,0 +1,24 @@
+{
+  "name": "dk-mod4-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerrd89/dk-mod4-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerrd89/dk-mod4-hw/issues"
+  },
+  "homepage": "https://github.com/kerrd89/dk-mod4-hw#readme",
+  "dependencies": {
+    "ecstatic": "^2.1.0"
+  }
+}
